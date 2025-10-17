@@ -52,6 +52,11 @@
     "last_opened_file_path": "G:/Visual Studio 2010/Projects/Python/Playwright_study"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Visual Studio 2010\Projects\Python\Playwright_study" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python tests.Python tests for tests.test_example.test_main_navigation">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Playwright_study1" />
