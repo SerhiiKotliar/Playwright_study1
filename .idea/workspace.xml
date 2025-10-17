@@ -18,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.git" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -40,17 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests for tests.test_example.test_get_started_link.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests.test_example.test_has_title.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for tests.test_example.test_main_navigation.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for tests.test_example.test_get_started_link.executor": "Run",
+    "Python tests.Python tests for tests.test_example.test_has_title.executor": "Run",
+    "Python tests.Python tests for tests.test_example.test_main_navigation.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "G:/Visual Studio 2010/Projects/Python/Playwright_study"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python tests.Python tests for tests.test_example.test_main_navigation">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Playwright_study1" />
@@ -254,12 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760709645922</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="proba4">
+      <option name="closed" value="true" />
+      <created>1760710951631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1760710951631</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="proba1" />
     <MESSAGE value="proba2" />
-    <option name="LAST_COMMIT_MESSAGE" value="proba2" />
+    <MESSAGE value="proba4" />
+    <option name="LAST_COMMIT_MESSAGE" value="proba4" />
   </component>
 </project>
