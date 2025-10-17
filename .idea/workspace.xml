@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11e29fdf-35c2-4898-a36a-f77911d6f4c7" name="Changes" comment="proba2" />
+    <list default="true" id="11e29fdf-35c2-4898-a36a-f77911d6f4c7" name="Changes" comment="proba4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,39 +18,39 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.git" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "SerhiiKotliar"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SerhiiKotliar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:SerhiiKotliar/Playwright_study1.git",
-    "accountId": "a8fbca1c-9f4d-42a0-a9bb-cdf60ab978f3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:SerhiiKotliar/Playwright_study1.git&quot;,
+    &quot;accountId&quot;: &quot;a8fbca1c-9f4d-42a0-a9bb-cdf60ab978f3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="34C0T4HoYVturbx51tcgysv5Zlf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Python tests for tests.test_example.test_get_started_link.executor": "Run",
-    "Python tests.Python tests for tests.test_example.test_has_title.executor": "Run",
-    "Python tests.Python tests for tests.test_example.test_main_navigation.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for tests.test_example.test_get_started_link.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_example.test_has_title.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for tests.test_example.test_main_navigation.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for tests.test_example.test_main_navigation">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Playwright_study1" />
