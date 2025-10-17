@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11e29fdf-35c2-4898-a36a-f77911d6f4c7" name="Changes" comment="proba3" />
+    <list default="true" id="11e29fdf-35c2-4898-a36a-f77911d6f4c7" name="Changes" comment="proba2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,21 +254,12 @@
       <option name="project" value="LOCAL" />
       <updated>1760709645922</updated>
     </task>
-    <task id="LOCAL-00005" summary="proba3">
-      <option name="closed" value="true" />
-      <created>1760710105816</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1760710105816</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="proba1" />
     <MESSAGE value="proba2" />
-    <MESSAGE value="proba3" />
-    <option name="LAST_COMMIT_MESSAGE" value="proba3" />
+    <option name="LAST_COMMIT_MESSAGE" value="proba2" />
   </component>
 </project>
